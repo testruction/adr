@@ -4,8 +4,8 @@
 
 Français (fr) | English (en)
 --- | ---
-[Introduction](/docs/fr/README.md) | [introduction](/docs/en/README.md)
-[Modèles de documents](/docs/fr/templates) | [Documentation](/docs/en/templates)
+[Introduction](/docs/fr/README.md) | [Introduction](/docs/en/README.md)
+[Modèles de document](/docs/fr/templates) | [Document Templates](/docs/en/templates)
 [Exemples](/docs/fr/examples) | [Examples](/docs/fr/examples)
 
 ## Visual Studio Code
