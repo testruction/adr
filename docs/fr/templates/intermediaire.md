@@ -1,10 +1,14 @@
 ---
-title: "ADR template for Alexandrian pattern"
+id: adr000
+title: "Modèle de relevé de décision en motif Alexandrin"
 date: 2021-04-11T03:01:02+02:00
+categories: ['Architecture']
+tags: ['rda', 'adr', 'releve', 'records','decition', 'architecture']
 draft: false
 ---
 
-# ADR000: Titre
+# adr00O: Modèle de relevé de décision en motif Alexandrin
+
 
 ## Introduction
 

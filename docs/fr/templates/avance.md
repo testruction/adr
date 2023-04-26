@@ -1,5 +1,13 @@
+---
+id: adr000
+title: "Modèle de relevé de décision en motif Alexandrin"
+date: 2021-04-11T03:01:02+02:00
+categories: ['Architecture']
+tags: ['rda', 'adr', 'releve', 'records','decition', 'architecture']
+draft: false
+---
 
-# ADR000: Titre
+# adr000: Modèle de relevé de décision par Jeff Tyree et Art Akerman
 
 ## Demande 
 
