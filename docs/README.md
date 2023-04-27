@@ -1,11 +1,13 @@
 # Relevé de Décision d'Architecture
 
+[![English (en)](https://img.shields.io/badge/lang-en-red.svg)](/docs/README.en.md)
+
 en | fr
 --- | ---
 Décision d'Architecture (DA) | Architecture Decision (AD)
 Exigence d'Architecture Significative (EAS) | Architecturally Significant Requirement (ASR)
 Relevé de Décision d'Architecture (RDA) | Architecture Decision Record (ADR)
- Gestion des Connaissances Architecturales (GCA) | Architectural Knowledge Management (AKM)
+Gestion des Connaissances Architecturales (GCA) | Architectural Knowledge Management (AKM)
 
 Une [Décision d'Architecture (DA)](https://en.wikipedia.org/wiki/Architectural_decision) est un choix de conception logiciel ou d'infrastructure qui adresse une éxigence fonctionnelle ou non-fonctionnelle significative architecturalement. Une [Exigence Significative Architecturalement (ESA)](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) est une éxigence qui a un effet mesurable sur l'architecture et qualité d'un système logiciel ou réseau. Un _Relevé de Décision d'Architecture (RDA)_ capture une seule DA et ses relation; la collection des RDAs créés et maintenu dans un projet constitut son _journal de décision_. Tout cela relève du thème de la Gestion des Connaissances Architecturales (GCA), cependant l'usage de RDA peut être étendu à la conception et autres décisions ("toutes les relevés de décision").
 
