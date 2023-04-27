@@ -1,0 +1,20 @@
+@startuml ADR
+skinparam monochrome true
+hide members
+
+abstract class ADR {
+}
+
+ADR <|-- MADR
+class MADR {
+}
+
+
+ADR <|-- YStatement
+class YStatement {
+}
+
+ADR <|-- Nygard
+class Nygard {
+}
+@enduml

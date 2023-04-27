@@ -1,5 +1,7 @@
 # Architectural Decision Records (ADRs)
 
+[![Français (fr)](https://img.shields.io/badge/lang-fr-blue.svg)](/docs/adrs/manifesto.md)
+
 An [Architectural Decision (AD)](https://en.wikipedia.org/wiki/Architectural_decision) is a justified software design choice that addresses a functional or non-functional requirement that is architecturally significant.
 An [Architecturally Significant Requirement (ASR)](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) is a requirement that has a measurable effect on a software system’s architecture and quality.
 An *Architectural Decision Record (ADR)* captures a single AD and its rationale;
@@ -31,7 +33,7 @@ We think that the considered options with their pros and cons are crucial to und
 
 ## Relation of ADRs, MADR, and Others
 
-![ADR](ADR.png)
+![ADR](./diagrams/ADR.png)
 
 ## Sustainable Architectural Decisions
 

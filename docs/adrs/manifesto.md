@@ -1,6 +1,6 @@
 # Relevé de Décision d'Architecture
 
-[![English (en)](https://img.shields.io/badge/lang-en-red.svg)](/docs/README.en.md)
+[![English (en)](https://img.shields.io/badge/lang-en-red.svg)](/docs/adrs/manifesto.md)
 
 en | fr
 --- | ---
@@ -27,7 +27,7 @@ Nous pensons que les options considérés avec leurs avantages et inconvénient 
 
 # La relation entre RDAs, MRDA, et autres
 
-![RDA](RDA.png)
+![RDA](diagrams/RDA.png)
 
 # Décisions d'Architecture Durables
 

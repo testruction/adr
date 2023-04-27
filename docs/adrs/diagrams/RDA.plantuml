@@ -1,0 +1,20 @@
+@startuml RDA
+skinparam monochrome true
+hide members
+
+abstract class RDA {
+}
+
+RDA <|-- MRDA
+class MRDA {
+}
+
+
+RDA <|-- "Instruction en Y"
+class "Instruction en Y" {
+}
+
+RDA <|-- Nygard
+class Nygard {
+}
+@enduml
