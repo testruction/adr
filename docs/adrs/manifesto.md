@@ -2,7 +2,7 @@
 
 [![English (en)](https://img.shields.io/badge/lang-en-red.svg)](/docs/adrs/manifesto.md)
 
-en | fr
+fr | en
 --- | ---
 Décision d'Architecture (DA) | Architecture Decision (AD)
 Exigence d'Architecture Significative (EAS) | Architecturally Significant Requirement (ASR)
