@@ -70,33 +70,33 @@ Nous sommes heureux d'inclure plus de candidats ici.
 
 * [adr-manager](https://adr.github.io/adr-manager/#/): Créer directement dans le navigateur Web des modèles MADR 2.x.
 * [adr-tools](https://github.com/npryce/adr-tools): scripts Bash pour gérer des ADRs dans le [format Nygard]((https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html)). [exemple]((https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md)).
-* Script Ansible pour installer adr-tools : [ansible-adr-tools](https://github.com/escalate/ansible-adr-tools)
-  * Réécriture en C# : [adr-cli](https://github.com/GingerTommy/adr-cli)
-  * Réécriture en Go : [adr](https://github.com/marouni/adr)
-  * Réécriture en Java : [adr-j](https://github.com/adoble/adr-j)
-  * Portage ESM Node.js : [adr-tools](https://github.com/meza/adr-tools)
-  * Réécriture en Node.js : [adr](https://github.com/phodal/adr)
-  * Version PHP : [phpadr](https://github.com/globtec/phpadr)
-  * Module Powershell : [adr-ps](https://github.com/rdagumampan/adr-ps)
-  * Réécriture en Python : [adr-tools-python](https://pypi.org/project/adr-tools-python/)
-  * Un autre module Powershell : [ArchitectureDecisionRecords](https://github.com/ajoberstar/ArchitectureDecisionRecords)
-* [adr-viewer](https://github.com/mrwilson/adr-viewer) - application python pour générer un site web à partir d'un ensemble d'ADRs.
+* Script Ansible pour installer adr-tools: [ansible-adr-tools](https://github.com/escalate/ansible-adr-tools)
+  * Réécriture en C#: [adr-cli](https://github.com/GingerTommy/adr-cli)
+  * Réécriture en Go: [adr](https://github.com/marouni/adr)
+  * Réécriture en Java: [adr-j](https://github.com/adoble/adr-j)
+  * Portage ESM Node.js: [adr-tools](https://github.com/meza/adr-tools)
+  * Réécriture en Node.js: [adr](https://github.com/phodal/adr)
+  * Version PHP: [phpadr](https://github.com/globtec/phpadr)
+  * Module Powershell: [adr-ps](https://github.com/rdagumampan/adr-ps)
+  * Réécriture en Python: [adr-tools-python](https://pypi.org/project/adr-tools-python/)
+  * Un autre module Powershell: [ArchitectureDecisionRecords](https://github.com/ajoberstar/ArchitectureDecisionRecords)
+* [adr-viewer](https://github.com/mrwilson/adr-viewer): Application python pour générer un site web à partir d'un ensemble d'ADRs.
 * [architectural-decision](https://github.com/cspray/architectural-decision): bibliothèque PHP pour créer des ADRs à l'aide d'attributs PHP8.
 * [Embedded Architectural Decision Records](https://adr.github.io/e-adr/), qui montre comment un journal AD distribué peut être intégré dans le code Java via des annotations ADR.
-* [Log4brains](https://github.com/thomvaill/log4brains): interface en ligne de commande et web pour enregistrer et publier vos ADRs en tant que site web statique
-* [Loqbooq](https://loqbooq.app): application Web avec intégration Slack pour enregistrer des journaux de décision inspirés d'ADR.
+* [Log4brains](https://github.com/thomvaill/log4brains): Interface en ligne de commande et web pour enregistrer et publier vos ADRs en tant que site web statique
+* [Loqbooq](https://loqbooq.app): Application Web avec intégration Slack pour enregistrer des journaux de décision inspirés d'ADR.
 
 ### Outils associés à la gestion de l'architecture
 
 * [ArchUnit](https://github.com/TNG/ArchUnit): Tests unitaires pour l'architecture
-* [docToolchain](https://doctoolchain.github.io/docToolchain/): docToolchain est une implémentation de l'approche docs-as-code pour l'architecture logicielle, avec quelques automatisations supplémentaires.
-* [Structurizr](https://www.structurizr.com/): Structurizr est une collection d'outils pour vous aider à visualiser, documenter et explorer votre architecture logicielle en utilisant le [modèle C4]((https://c4model.com/)).
+* [docToolchain](https://doctoolchain.github.io/docToolchain/): Une implémentation de l'approche docs-as-code pour l'architecture logicielle, avec quelques automatisations supplémentaires.
+[Structurizr](https://www.structurizr.com/): Une collection d'outils pour vous aider à visualiser, documenter et explorer votre architecture logicielle en utilisant le [modèle C4]((https://c4model.com/)).
 
 
 ### Outils intéressants, mais non maintenus
 
 * [adr-log](https://github.com/adr/adr-log): Génère un journal des décisions architecturales à partir de MADRs.
-* [ADMentor](https://github.com/IFS-HSR/ADMentor) : Extension de modélisation des décisions architecturales pour Sparx Enterprise Architect
+* [ADMentor](https://github.com/IFS-HSR/ADMentor): Extension de modélisation des décisions architecturales pour Sparx Enterprise Architect
 * [eadlsync](https://adr.github.io/eadlsync/): synchronise les enregistrements intégrés de décisions architecturales avec un référentiel de décisions architecturales.
 * [SE Repo](https://github.com/adr/serepo): Dépôt d'ingénierie Logiciel. Un référentiel pour la gestion de version des artefacts de génie logiciel, qui peuvent être des décisions architecturales, des modèles et autres.
 
