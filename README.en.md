@@ -1,6 +1,6 @@
 # Architecture Décision Record (ADR)
 
-[![Français (fr)](https://img.shields.io/badge/lang-fr-blue.svg)](/README.md)
+![cc-by-nd-shield](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg) [![Français (fr)](https://img.shields.io/badge/lang-fr-blue.svg)](/README.md)
 
 ## Ressources
 

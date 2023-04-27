@@ -1,6 +1,6 @@
 # Relevé de Décision d'Architecture (RDA)
 
-[![English (en)](https://img.shields.io/badge/lang-en-red.svg)](/README.en.md)
+![cc-by-nd-shield](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg) [![English (en)](https://img.shields.io/badge/lang-en-red.svg)](/README.en.md)
 
 ## Ressources
 
