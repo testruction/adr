@@ -4,12 +4,13 @@
 
 ## Ressources
 
-* [Introduction](/docs/adrs/README.md)
-* [Process](/docs/adrs/process.md)
-* [Modèles de document](/docs/adrs/templates)
-* [Rédaction hors-ligne (Git)](docs/adrs/instructions/offline_git.md)
-* [Rédaction en ligne (GitLab)](docs/adrs/instructions/online-gitlab.md)
-* [Exemples](/docs/adrs/examples)
+* [x] [Introduction](/docs/adrs/README.md)
+* [x] [Process](/docs/adrs/process.md)
+* [x] [Modèles de document](/docs/adrs/templates)
+* [x] [Rédaction hors-ligne (Git)](docs/adrs/instructions/offline_git.md)
+* [x] [Rédaction en ligne (GitLab)](docs/adrs/instructions/online-gitlab.md)
+* [x] [Exemples](/docs/adrs/examples)
+* [x] [Etude](/docs/adrs/study.md)
 
 ## Extensions Visual Studio Code
 

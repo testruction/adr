@@ -4,9 +4,13 @@
 
 ## Ressources
 
-* [Introduction](/docs/adrs/README.en.md)
-* [Document Templates](/docs/adrs/templates)
-* [Examples](/docs/adrs/examples)
+* [x] [Introduction](/docs/adrs/README.en.md)
+* [ ] [Process](/docs/adrs/process.en.md)
+* [ ] [Document Templates](/docs/adrs/templates)
+* [ ] [Offline authoring (Git)](docs/adrs/instructions/offline_git.en.md)
+* [ ] [Online authoring (GitLab)](docs/adrs/instructions/online-gitlab.en.md)
+* [ ] [Examples](/docs/adrs/examples)
+* [x] [Study](/docs/adrs/study.en.md)
 
 ## Visual Studio Code extensions
 
