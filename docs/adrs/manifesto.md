@@ -60,3 +60,57 @@ Vous pouvez trouver plus d'explication et d'exemples sur Medium [Instruction en 
 * [Capture de décision](https://schubmat.github.io/DecisionCapture/): Modèles de document pour les projets agile et des explications sur l'univers d'ADR avec un [exemple](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_simpleTemplate_secondSprint.md).
 * cards42 a adopté le modèle d'instruction en Y dans sa [carte RDA](https://cards42.org#adr); La version Anglaise est similaire, mais ajoute l'information sur l'état.
 * Le [modèle de document](http://www.iso-architecture.org/42010/templates/) pour [ISO/IEC/IEEE 42010:2011](https://en.wikipedia.org/wiki/ISO/IEC_42010), le standard International pour les descriptions d'architectures de systèmes et de logiciels, suggère neuf éléments d'information dans l'Appendice A pour RDAs. Il identifie notamment les domaines à considérer lorsque l'on identifie les décisions clés.
+
+## Decision Capturing Tools
+
+_Avertissement_:
+La liste suivante est plutôt exhaustive.
+Se renseigner sur l'état et la maturité des entrées de la liste en suivant les liens.
+Nous sommes heureux d'inclure plus de candidats ici.
+
+* [adr-manager](https://adr.github.io/adr-manager/#/): Créer directement dans le navigateur Web des modèles MADR 2.x.
+* [adr-tools](https://github.com/npryce/adr-tools): scripts Bash pour gérer des ADRs dans le [format Nygard]((https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html)). [exemple]((https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md)).
+* Script Ansible pour installer adr-tools : [ansible-adr-tools](https://github.com/escalate/ansible-adr-tools)
+  * Réécriture en C# : [adr-cli](https://github.com/GingerTommy/adr-cli)
+  * Réécriture en Go : [adr](https://github.com/marouni/adr)
+  * Réécriture en Java : [adr-j](https://github.com/adoble/adr-j)
+  * Portage ESM Node.js : [adr-tools](https://github.com/meza/adr-tools)
+  * Réécriture en Node.js : [adr](https://github.com/phodal/adr)
+  * Version PHP : [phpadr](https://github.com/globtec/phpadr)
+  * Module Powershell : [adr-ps](https://github.com/rdagumampan/adr-ps)
+  * Réécriture en Python : [adr-tools-python](https://pypi.org/project/adr-tools-python/)
+  * Un autre module Powershell : [ArchitectureDecisionRecords](https://github.com/ajoberstar/ArchitectureDecisionRecords)
+* [adr-viewer](https://github.com/mrwilson/adr-viewer) - application python pour générer un site web à partir d'un ensemble d'ADRs.
+* [architectural-decision](https://github.com/cspray/architectural-decision): bibliothèque PHP pour créer des ADRs à l'aide d'attributs PHP8.
+* [Embedded Architectural Decision Records](https://adr.github.io/e-adr/), qui montre comment un journal AD distribué peut être intégré dans le code Java via des annotations ADR.
+* [Log4brains](https://github.com/thomvaill/log4brains): interface en ligne de commande et web pour enregistrer et publier vos ADRs en tant que site web statique
+* [Loqbooq](https://loqbooq.app): application Web avec intégration Slack pour enregistrer des journaux de décision inspirés d'ADR.
+
+### Outils associés à la gestion de l'architecture
+
+* [ArchUnit](https://github.com/TNG/ArchUnit): Tests unitaires pour l'architecture
+* [docToolchain](https://doctoolchain.github.io/docToolchain/): docToolchain est une implémentation de l'approche docs-as-code pour l'architecture logicielle, avec quelques automatisations supplémentaires.
+[Structurizr](https://www.structurizr.com/): Structurizr est une collection d'outils pour vous aider à visualiser, documenter et explorer votre architecture logicielle en utilisant le [modèle C4]((https://c4model.com/)).
+
+
+### Outils intéressants, mais non maintenus
+
+* [adr-log](https://github.com/adr/adr-log): Génère un journal des décisions architecturales à partir de MADRs.
+* [ADMentor](https://github.com/IFS-HSR/ADMentor) : Extension de modélisation des décisions architecturales pour Sparx Enterprise Architect
+* [eadlsync](https://adr.github.io/eadlsync/): synchronise les enregistrements intégrés de décisions architecturales avec un référentiel de décisions architecturales.
+* [SE Repo](https://github.com/adr/serepo): Dépôt d'ingénierie Logiciel. Un référentiel pour la gestion de version des artefacts de génie logiciel, qui peuvent être des décisions architecturales, des modèles et autres.
+
+## Plus d'informations
+
+* [Architectural Decisions — The Making Of](https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html): fournit un historique sur les enregistrements des décisions architecturales.
+* [Architectural Decision Records (ADR): Open & Transparent Decision History](https://openpracticelibrary.com/practice/architectural-decision-records-adr/): Open & Transparent Decision History dans la Open Practice Library
+* Des directives prescriptives d'AWS recommandent l'[utilisation d'enregistrements des décisions architecturales pour rationaliser la prise de décision technique pour un projet de développement de logiciel](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/welcome.html).
+* [Architecture Knowledge Management (AKM) overview]((https://www.ost.ch/de/forschung-und-dienstleistungen/informatik/ifs-institut-fuer-software/labs/cloud-application-lab/architectural-knowledge-management-akm)) chez OST
+* [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html) par Michael Nygard
+* [Architecture Decision Records in Action by Michael Keeling (IBM Watson Group) and Joe Runde (IBM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=497744) par Michael Keeling (IBM Watson Group) et Joe Runde (IBM): présentation incluant des chiffres empiriques.
+* [Documenting Architecture Decisions](https://www.fabian-keller.de/blog/documenting-architecture-decisions): Article de blog de Fabian Keller
+* [From Architectural Decisions to Design Decisions](https://medium.com/olzzio/from-architectural-decisions-to-design-decisions-f05f6d57032b) et [ADR = Any Decision Record?](https://medium.com/olzzio/adr-any-decision-record-916d1b64b28d): Deux billets de blog d'Olaf Zimmermann proposant d'étendre la portée des ADR.
+* Sélection et adaptation de méthodes dans DPR, le [Design Practice Repository (DPR)](https://socadk.github.io/design-practice-repository/) sur GitHub et le [Design Practice Reference](https://leanpub.com/dpr), un livre électronique correspondant sur LeanPub. La capture des décisions architecturales est présentée comme l'une des activités essentielles dans DPR.
+
+<!-- - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ) -->
+<!-- - [French Translation by Florian JUDITH](https://github.com/fjudith) -->
