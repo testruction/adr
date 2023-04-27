@@ -4,9 +4,9 @@
 
 ## Ressources
 
-* [Introduction](/docs/README.en.md)
-* [Document Templates](/docs/templates)
-* [Examples](/docs/examples)
+* [Introduction](/docs/adrs/README.en.md)
+* [Document Templates](/docs/adrs/templates)
+* [Examples](/docs/adrs/examples)
 
 ## Visual Studio Code extensions
 
