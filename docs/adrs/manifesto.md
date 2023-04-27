@@ -90,7 +90,7 @@ Nous sommes heureux d'inclure plus de candidats ici.
 
 * [ArchUnit](https://github.com/TNG/ArchUnit): Tests unitaires pour l'architecture
 * [docToolchain](https://doctoolchain.github.io/docToolchain/): docToolchain est une implémentation de l'approche docs-as-code pour l'architecture logicielle, avec quelques automatisations supplémentaires.
-[Structurizr](https://www.structurizr.com/): Structurizr est une collection d'outils pour vous aider à visualiser, documenter et explorer votre architecture logicielle en utilisant le [modèle C4]((https://c4model.com/)).
+* [Structurizr](https://www.structurizr.com/): Structurizr est une collection d'outils pour vous aider à visualiser, documenter et explorer votre architecture logicielle en utilisant le [modèle C4]((https://c4model.com/)).
 
 
 ### Outils intéressants, mais non maintenus
